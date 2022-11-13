@@ -12,9 +12,6 @@ I am developing in the direction of test automation.<br>
   <a href="https://t.me/Elieeeya">
     <img width="6%" src="images/Telegram.svg" alt="Telegram Badge"/>
   </a>
-  <a href="https://hh.ru/resume/4463246aff092c58650039ed1f4a7769494175">
-    <img width="6%" src="images/HeadHunter_logo.png" alt="HH.ru Badge"/>
-  </a>
 </div>
   
   
@@ -35,8 +32,9 @@ I am developing in the direction of test automation.<br>
 <img width="6%" title="Android" src="images/Browserstack.svg">
 <img width="7%" title="Jira" src="images/Android.svg">  
 </p>
+<br>
 
-## Stats
+## 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Elieeeya)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Elieeeya) 
