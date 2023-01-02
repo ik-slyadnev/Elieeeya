@@ -36,8 +36,7 @@ I am developing in the direction of test automation.<br>
 <img width="5.5%" title="Jira" src="images/logo/9b3a202b7545bfb958527fc1d9583eb5.svg">
 <br>
 
-## 
-
+## Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Elieeeya)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Elieeeya) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elieeeya)
