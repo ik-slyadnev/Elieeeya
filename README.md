@@ -6,7 +6,7 @@ I am developing in the direction of test automation.<br>
   
   ## Contact me: 
   <div id="badges">
-  <a href="https://www.linkedin.com/in/ilya-slyadnev-b156a3254/">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ilya-sliadnev//">
     <img width="6%" src="images/logo/Linkedin.png" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/Elieeeya">
